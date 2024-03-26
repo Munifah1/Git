@@ -1,2 +1,2 @@
 # Git
-### im just trying GitHup 
+### I'm just trying GitHup 
